@@ -4,7 +4,7 @@ body{
 
 nav{
 	float: left;
-	height: 100vh;
+	height: 180vh;
 	background-color: #3d3936;
 	padding-right: 30px;
 	padding top:30px;
@@ -47,7 +47,7 @@ li{
 }
 
 .main-content{
-	width: 48%;
+	width: 58%;
 	margin: 0 auto;
 }
 
@@ -60,4 +60,12 @@ li{
 	display: inline-block;
 	vertical-align: top;
 	margin: 10px;
+}
+
+.stroke-box a{
+	color: #000;
+}
+
+.stroke-box img{
+	
 }
