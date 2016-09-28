@@ -1,0 +1,42 @@
+body{
+	background-color: #dedede;
+}
+
+nav{
+	float: left;
+	height: 100vh;
+	background-color: #3d3936;
+	padding-right: 30px;
+	padding top:30px;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+li{
+	color: #fff;
+}
+
+.container{
+	padding: 10px;
+}
+
+.pointer-next{
+	width: 20px;
+	margin: 300px 5px 5px 5px;
+	float: right;
+}
+
+.pointer-previous{
+	width: 20px;
+	margin: 300px 5px 5px 5px;
+	float: left;
+}
+
+.main-content{
+	text-align: center;
+	text-transform: uppercase;
+	margin: 280px 5px 5px 5px;
+}
