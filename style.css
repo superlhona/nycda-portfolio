@@ -1,10 +1,11 @@
 body{
 	background-color: #dedede;
+	font-family: helvetica, arial, sans-serif;
 }
 
 nav{
 	float: left;
-	height: 180vh;
+	height: 100vh;
 	background-color: #3d3936;
 	padding-right: 30px;
 	padding top:30px;
@@ -49,6 +50,7 @@ li{
 .main-content{
 	width: 58%;
 	margin: 0 auto;
+	padding-left: 10%;
 }
 
 .main-content h1{
@@ -68,4 +70,11 @@ li{
 
 .stroke-box img{
 	width: 100%;
+}
+
+.email{
+	width: 50px;
+	position: fixed;
+	bottom: 0;
+	left: 40px;
 }
